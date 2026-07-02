@@ -2,6 +2,24 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.0.1] - 2026-07-01
+
+### Added
+
+- **Documentação de Governança:** Adição dos guias de padronização do repositório na pasta `docs/`:
+  - `dicionario_semantico.md`: Padrões de nomenclatura de pastas e arquivos (kebab-case, snake_case).
+  - `guia_versionamento.md`: Regras para versionamento semântico (SemVer) aplicadas ao projeto.
+  - `git_commit_guide.md`: Guia de commits profissionais com tipos, escopos e exemplos práticos.
+- **README:** Atualização da seção "Base de Conhecimento" com links ativos para os novos documentos.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Estabelece a governança completa do repositório, garantindo escalabilidade e profissionalismo na gestão do projeto.
+
 ## [1.0.0] - 2026-07-01
 
 ### Added

@@ -40,12 +40,12 @@ Aqui, você encontrará:
 ## 🚀 Produtos e Projetos do Portfólio
 
 Este repositório é dividido em módulos independentes, permitindo que o projeto cresça sem perder a organização:
-
-| Pasta | Descrição | Status |
-| :--- | :--- | :--- |
-| **`01-curriculo-automation/`** | Cartilha de boas práticas, modelos de currículos e scripts de geração/análise. | ✅ Em andamento |
-| **`02-valor-mercado/`** | Estudo teórico sobre métricas de mercado, ROI, PME, coleta de dados e governança. | 📖 Em estudo |
-| **`docs/`** | Documentação de padrões e guias do repositório. | ✅ Ativo |
+  
+| Pasta                          | Descrição                                                                         | Status          |
+| :---                           | :---                                                                              | :---            |
+| **`01-curriculo-automation/`** | Cartilha de boas práticas, modelos de currículos e scripts de geração/análise.    | ✅ Em andamento |
+| **`02-valor-mercado/`**        | Estudo teórico sobre métricas de mercado, ROI, PME, coleta de dados e governança. | 📖 Em estudo    |
+| **`docs/`**                    | Documentação de padrões e guias do repositório.                                   | ✅ Ativo        |
 
 ---
 
@@ -67,7 +67,9 @@ Este repositório segue o modelo `MAJOR.MINOR.PATCH` para controle de progresso.
 
 - **MAJOR:** Lançamento de um novo "Produto" (ex: integração com Ollama).
 - **MINOR:** Adição de novos modelos, scripts ou seções.
-- **PATCH:** Correções de bugs, atualizações de documentação ou ajustes menores.
+- **PATCH:** Correções de bugs, atualizações de documentação ou ajustes menores
+  
+Veja o [Guia de Versionamento Profissionais](./docs/guia_versionamento.md).
 
 Todo o histórico é detalhado no [CHANGELOG.md](./CHANGELOG.md).
 
