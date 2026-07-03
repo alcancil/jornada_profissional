@@ -2,6 +2,26 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.2.0] - 2026-07-03
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 3):** Adição do guia "Como Extrair Métricas e Realizações da Experiência Passada" na pasta `01 - curriculo/01 - Teoria/`.
+  - Aborda técnicas de inferência baseada no porte da empresa para estimar números sem relatórios oficiais.
+  - Ensina a comparar experiências com padrões de mercado (SLA, disponibilidade, tempo de resposta).
+  - Apresenta métodos para traduzir observações cotidianas em frases de impacto.
+  - Inclui exercício prático de "Antes e Depois" para transformar tarefas em realizações.
+  - Fornece um checklist de validação para garantir que as estimativas sejam honestas e defensáveis.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Expande a base teórica do projeto, resolvendo o maior gargalo dos profissionais de TI: a falta de métricas documentadas.
+- Prepara o terreno para o próximo capítulo, onde essas métricas serão aplicadas nos modelos de currículo.
+
 ## [1.1.0] - 2026-07-03
 
 ### Added
