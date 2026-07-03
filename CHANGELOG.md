@@ -2,6 +2,25 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.1.0] - 2026-07-03
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 2):** Adição do guia "Storytelling Técnico e Descrição de Realizações" na pasta `01 - curriculo/01 - Teoria/`.
+  - Aborda a importância do storytelling e do método S.T.A.R. para construção de realizações impactantes.
+  - Inclui exemplos práticos de transformação de tarefas em realizações, mesmo sem métricas exatas.
+  - Apresenta técnicas para estimar e inferir métricas usando o porte da empresa e observações cotidianas.
+  - Prepara o terreno para a automação futura, ensinando como extrair valor da experiência passada.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Expande a base teórica do projeto, fornecendo ferramentas práticas para que profissionais de TI possam construir currículos mais assertivos.
+- Cria uma ponte entre a teoria geral e a aplicação prática nos modelos de currículo (próximo capítulo).
+
 ## [1.0.1] - 2026-07-01
 
 ### Added
