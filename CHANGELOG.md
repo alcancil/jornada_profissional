@@ -2,11 +2,31 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.3.0] - 2026-07-03
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 4):** Adição do guia: "Encaixando Realizações nos Modelos de Currículo" na pasta `04 - realizacoes`
+  - Apresenta as diferenças de ênfase entre os modelos Genérico, Analista de TI, Analista de Redes e Automação.
+  - Fornece exemplos práticos de como adaptar a mesma realização para cada modelo.
+  - Inclui um exercício prático para o leitor adaptar suas próprias experiências aos 4 modelos.
+  - Disponibiliza um checklist de validação para garantir que a realização esteja adequada ao modelo escolhido.
+  - Atualiza o gancho final para redirecionar o próximo passo (Capítulo 5) para a construção de um Inventário de Competências.
+
+### Change
+
+- N/A
+
+### Impact
+
+- Consolida a transição entre a teoria de realizações (Capítulos 2 e 3) e a aplicação prática nos modelos de currículo.
+- Prepara o terreno para o Capítulo 5, que abordará o inventário de competências e o mapeamento para perfis de vaga (NOC, ISP, SOC, etc.).
+
 ## [1.2.0] - 2026-07-03
 
 ### Added
 
-- **Módulo de Currículo (Teoria - Capítulo 3):** Adição do guia "Como Extrair Métricas e Realizações da Experiência Passada" na pasta `01 - curriculo/01 - Teoria/`.
+- **Módulo de Currículo (Teoria - Capítulo 3):** Adição do guia "Como Extrair Métricas e Realizações da Experiência Passada" na pasta `03 - metricas`.
   - Aborda técnicas de inferência baseada no porte da empresa para estimar números sem relatórios oficiais.
   - Ensina a comparar experiências com padrões de mercado (SLA, disponibilidade, tempo de resposta).
   - Apresenta métodos para traduzir observações cotidianas em frases de impacto.
@@ -26,7 +46,7 @@ Todos os marcos notáveis deste projeto serão documentados neste arquivo. O for
 
 ### Added
 
-- **Módulo de Currículo (Teoria - Capítulo 2):** Adição do guia "Storytelling Técnico e Descrição de Realizações" na pasta `01 - curriculo/01 - Teoria/`.
+- **Módulo de Currículo (Teoria - Capítulo 2):** Adição do guia "Storytelling Técnico e Descrição de Realizações" na pasta `02 - storytelling`.
   - Aborda a importância do storytelling e do método S.T.A.R. para construção de realizações impactantes.
   - Inclui exemplos práticos de transformação de tarefas em realizações, mesmo sem métricas exatas.
   - Apresenta técnicas para estimar e inferir métricas usando o porte da empresa e observações cotidianas.
@@ -40,6 +60,28 @@ Todos os marcos notáveis deste projeto serão documentados neste arquivo. O for
 
 - Expande a base teórica do projeto, fornecendo ferramentas práticas para que profissionais de TI possam construir currículos mais assertivos.
 - Cria uma ponte entre a teoria geral e a aplicação prática nos modelos de currículo (próximo capítulo).
+
+## [1.0.0] - 2026-07-01
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 1):** Adição do guia "Currículo Profissional para TI e Redes — Guia Prático" na pasta `01 - curriculo`.
+  - Apresenta o objetivo do guia: fornecer um roteiro prático para construção de currículos eficazes para profissionais de TI, com ênfase em redes, infraestrutura e automação.
+  - Explica por que criar currículos direcionados é crucial, abordando filtros ATS, recorte por vaga, tempo de leitura do recrutador e a necessidade de adaptação.
+  - Detalha estratégias práticas: estrutura recomendada (cabeçalho, resumo, competências, experiência, certificações, formação, projetos), dicas de redação com verbos de ação e resultados, e adaptação para vagas específicas.
+  - Inclui um checklist completo com seções obrigatórias e opcionais, além do que NÃO deve constar no currículo.
+  - Apresenta exemplos de currículos antigos (a evitar) e modernos (a fazer), incluindo modelos orientados a resultados para Analista de Redes e para Automação/NetDevOps.
+  - Finaliza com reflexões e lições aprendidas sobre a construção de um currículo profissional.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Estabelece a base teórica fundamental para o projeto, introduzindo os conceitos essenciais para a elaboração de currículos direcionados.
+- Prepara o terreno para os capítulos subsequentes, que aprofundarão em storytelling, métricas, inventário de competências e automação.
+- Posiciona o repositório como uma referência prática e estruturada para profissionais de TI que desejam melhorar sua apresentação no mercado.
 
 ## [1.0.1] - 2026-07-01
 
