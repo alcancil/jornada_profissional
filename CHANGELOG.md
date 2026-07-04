@@ -2,6 +2,26 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.5.0] - 2026-07-03
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 6):** Adição do guia "Hard Skills vs Soft Skills: Como Descrever Seu Valor Comportamental" na pasta `06 - skills`.
+  - Explica a diferença entre hard skills e soft skills com exemplos práticos.
+  - Apresenta uma tabela de mapeamento de soft skills mais valorizadas por perfil de vaga (NOC, SOC, ISP, Enterprise, Cloud, Automação, Infra).
+  - Ensina como descrever soft skills no currículo sem usar clichês, transformando frases genéricas em evidências concretas.
+  - Inclui exercício prático para o leitor transformar seus próprios clichês em frases de impacto.
+  - Fornece um checklist de validação para garantir que as soft skills escolhidas sejam autênticas e defensáveis.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Completa a base teórica do projeto, cobrindo tanto competências técnicas quanto comportamentais.
+- Prepara o terreno para o Capítulo 7, onde o inventário e as soft skills serão integrados para gerar currículos direcionados.
+
 ## [1.4.0] - 2026-07-03
 
 ### Added
