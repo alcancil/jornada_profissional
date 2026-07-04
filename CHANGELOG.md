@@ -2,6 +2,16 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.6.1] - 2026-07-04
+
+### Changed
+
+- **Capítulo 6:** Ajuste do gancho final para redirecionar o próximo passo (Capítulo 7) ao tema "Soft Skills Observáveis", em vez de "montar currículo direcionado".
+
+### Impact
+
+- Realinha o fluxo do projeto para incluir um capítulo dedicado a soft skills observáveis, complementando o conteúdo sobre hard skills.
+
 ## [1.5.0] - 2026-07-03
 
 ### Added

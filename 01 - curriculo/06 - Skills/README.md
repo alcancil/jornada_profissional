@@ -162,7 +162,7 @@ Se você respondeu **sim** para todas, você pode usar essa soft skill com confi
 
 ## 🔗 Próximo passo (Capítulo 7)
 
-Agora que você já sabe mapear suas **hard skills** (Capítulo 5) e descrever suas **soft skills** com evidências (Capítulo 6), o **Capítulo 7** vai unir tudo: **como montar um currículo direcionado para qualquer vaga usando seu inventário e matriz**. Você aprenderá a selecionar as competências certas, adaptar as realizações e gerar um currículo sob medida para um perfil específico, sem precisar refazer tudo do zero.
+Agora que você já entendeu a diferença entre hard skills e soft skills, o próximo passo é ir além: **como transformar soft skills em evidências observáveis**. Você aprenderá a mapear comportamentos concretos que comprovam suas soft skills, usando seus próprios projetos e experiências. Esse capítulo ensinará a demonstrar valor profissional de forma autêntica, sem clichês.
 
 ---
 
