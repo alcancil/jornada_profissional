@@ -2,6 +2,27 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.4.0] - 2026-07-03
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 5):** Adição do guia "Inventário de Competências e Matriz de Mapeamento para Vagas" na pasta `05 - Matriz de Competencias`.
+  - Ensina a construir um inventário organizado por domínios técnicos (Redes, Sistemas, Automação, Monitoramento, Segurança, Cloud).
+  - Apresenta uma matriz de mapeamento entre competências e perfis de vaga (NOC, SOC, ISP, Enterprise, Cloud, Automação, Infra).
+  - Demonstra como extrair competências profissionais a partir de planos de estudo (CCNA/CCNP).
+  - Inclui exercício prático para o leitor construir seu próprio inventário e matriz.
+  - Ajusta o gancho final para redirecionar o próximo passo (Capítulo 6) ao tema "Hard Skills vs Soft Skills".
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Consolida a transição entre o mapeamento técnico e a comunicação profissional.
+- Prepara o terreno para o Capítulo 6, que abordará soft skills e diferenciais comportamentais.
+- Mantém o repositório alinhado com o novo fluxo estratégico definido pelo usuário.
+
 ## [1.3.0] - 2026-07-03
 
 ### Added
