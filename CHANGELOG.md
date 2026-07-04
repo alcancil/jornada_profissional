@@ -2,6 +2,26 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.7.0] - 2026-07-04
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 7):** Adição do guia "Soft Skills Observáveis: Como Demonstrar Seu Valor Comportamental com Evidências" na pasta `07 - soft skills observaveis`.
+  - Apresenta o conceito de soft skills como comportamentos observáveis, não adjetivos.
+  - Fornece uma tabela de mapeamento entre soft skills, comportamentos observáveis e frases de currículo.
+  - Ensina a transformar comportamentos em evidências concretas.
+  - Demonstra como laboratórios de rede e projetos pessoais evidenciam múltiplas soft skills.
+  - Inclui exercício prático para o leitor mapear suas próprias evidências.
+
+### Changed
+
+- **Capítulo 6:** Ajuste do gancho final para redirecionar o próximo passo ao Capítulo 7, em vez de "montagem de currículo direcionado".
+
+### Impact
+
+- Completa a base teórica sobre competências, abrangendo hard skills, soft skills e sua demonstração prática por meio de comportamentos observáveis.
+- Prepara o terreno para o Capítulo 8, onde todos os conceitos serão integrados para a geração de currículos direcionados.
+
 ## [1.6.1] - 2026-07-04
 
 ### Changed
