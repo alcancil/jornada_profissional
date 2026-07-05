@@ -2,6 +2,20 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.8.1] - 2026-07-04
+
+### Added
+
+- **Capítulo 8:** Adição de uma seção "Versão em PDF do Modelo" com um link para download do currículo exemplo em PDF, facilitando a visualização do resultado final.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Melhora a experiência do leitor, oferecendo o currículo exemplo em um formato pronto para uso imediato.
+
 ## [1.8.0] - 2026-07-04
 
 ### Added

@@ -25,6 +25,7 @@
   - [7. Projetos Pessoais / Portfólio](#7-projetos-pessoais--portfólio)
   - [8. Idiomas (opcional)](#8-idiomas-opcional)
   - [📄 O Currículo Completo (Versão Final)](#-o-currículo-completo-versão-final)
+  - [📎 Versão em PDF do Modelo](#-versão-em-pdf-do-modelo)
   - [🔗 Próximo passo (Capítulo 9)](#-próximo-passo-capítulo-9)
 
 ---
@@ -368,6 +369,16 @@ Profissional com 8 anos de experiência em infraestrutura de TI, atualmente em t
 - **Lab STP + Automação:** Topologia completa de 10 switches no EVE‑NG com análise de BPDUs via Python (tshark + pandas). Link: [github.com/joaoalmeida/lab-stp]
 - **Script de Backup Automático:** Script em Python com Netmiko para backup de configurações de roteadores Cisco, com suporte a múltiplos dispositivos via JSON. Link: [github.com/joaoalmeida/backup-cisco]
 ```
+
+---
+
+## 📎 Versão em PDF do Modelo
+
+O exemplo de currículo gerado neste capítulo está disponível em formato PDF para download, permitindo que você visualize o resultado final em um formato pronto para envio.
+
+Você pode baixá-lo através do link abaixo:
+
+[📄 Baixar modelo de currículo (Analista de Redes) em PDF](./Arquivos/modelo.pdf)
 
 ---
 
