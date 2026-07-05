@@ -2,6 +2,31 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.8.0] - 2026-07-04
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 8):** Adição do guia "Preenchendo um Modelo de Currículo: Da Teoria à Prática" na pasta `08 - Estrutura`.
+  - Apresenta um passo a passo prático para preencher o modelo de Analista de Redes, integrando todos os conceitos dos capítulos anteriores.
+  - Inclui seções sobre:
+    - Escolha do modelo certo com base na matriz de mapeamento.
+    - Ordem recomendada dos campos e suas justificativas.
+    - Uso de foto (apenas se solicitado).
+    - Idiomas (quando e como incluir).
+    - Tamanho do currículo (1 página vs 2 páginas, e como encurtar).
+    - Ícones (recomendação para evitar em currículos para ATS).
+  - Fornece um exemplo completo de currículo em Markdown, com métricas estimadas, STAR, soft skills e idiomas.
+  - Ajusta o gancho final para redirecionar o próximo passo (Capítulo 9) para o tema "Anonimização de Dados (LGPD/PII)".
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Completa a parte prática do projeto, mostrando como aplicar todo o conhecimento teórico na construção de um currículo real.
+- Prepara o terreno para o Capítulo 9, que abordará a anonimização de currículos para conformidade com LGPD e proteção de PII.
+
 ## [1.7.0] - 2026-07-04
 
 ### Added
