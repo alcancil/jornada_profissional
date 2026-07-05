@@ -2,6 +2,28 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.9.0] - 2026-07-05
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 9):** Adição do guia "Anonimização de Currículos: Proteção de Dados e Conformidade com LGPD" na pasta `01 - curriculo/01 - Teoria/09 - anonimizacao/`.
+  - Explica os motivos legais e práticos para anonimizar currículos (LGPD, PII, redução de viés, segurança digital).
+  - Define quando anonimizar (recrutador, plataformas, LLMs, ambientes públicos).
+  - Apresenta tabela clara do que remover/substituir e o que manter.
+  - Ensina o processo manual passo a passo, com exemplos práticos de antes e depois.
+  - Orienta sobre como armazenar versões anônimas e proteger dados pessoais.
+  - Inclui checklist de validação para garantir a anonimização completa.
+  - Ajusta o gancho final para direcionar ao Capítulo 10 (exemplos de currículos anonimizados).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Estabelece a base de privacidade e conformidade legal para todos os currículos gerados no projeto.
+- Prepara o terreno para o Capítulo 10, que apresentará exemplos práticos de anonimização aplicada a diferentes perfis.
+
 ## [1.8.1] - 2026-07-04
 
 ### Added
