@@ -2,6 +2,25 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.10.0] - 2026-07-05
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 10):** Adição do guia "Exemplos Práticos de Currículos Anonimizados" na pasta `01 - curriculo/01 - Teoria/10 - exemplos-anonimizados/`.
+  - Apresenta três currículos completos (Analista de TI, Analista de Redes, Automação/NetDevOps) com suas respectivas versões anônimas.
+  - Para cada exemplo, mostra uma tabela comparativa do que foi removido, substituído e mantido.
+  - Inclui uma análise geral das anonimizações e lições aprendidas.
+  - Ajusta o gancho final para apontar para o Capítulo 11 (gerenciamento de repositório e documentação do processo).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Consolida o conhecimento prático de anonimização com exemplos reais e comparativos.
+- Prepara o terreno para o Capítulo 11, que organizará o repositório e documentará o processo de forma estruturada.
+
 ## [1.9.0] - 2026-07-05
 
 ### Added
