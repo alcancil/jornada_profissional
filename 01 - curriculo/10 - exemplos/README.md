@@ -408,6 +408,8 @@ Engenheiro de redes com forte inclinação para programabilidade. Especialista e
 
 ## 🔗 Próximo passo (Capítulo 11)
 
-Agora que você já viu exemplos práticos de anonimização para diferentes perfis, o Capítulo 11 vai unir todos os conceitos: você aprenderá a gerenciar seu repositório de currículos de forma organizada, mantendo versões completas (locais) e anônimas (para compartilhamento). Também verá como documentar seu processo de anonimização para que ele seja reprodutível e confiável – preparando o terreno para futuras automações.
+Agora que você já viu exemplos práticos de anonimização para diferentes perfis, o **Capítulo 11** vai abordar o **uso consciente de Inteligências Artificiais na redação de currículos**. Você aprenderá a utilizar ferramentas como ChatGPT para gerar frases STAR, criar prompts eficazes e, principalmente, revisar os textos gerados para evitar clichês e garantir autenticidade. O foco será em usar a IA como assistente, não como substituta da sua experiência.
 
-Última atualização: Julho de 2026
+---
+
+*Última atualização: Julho de 2026*

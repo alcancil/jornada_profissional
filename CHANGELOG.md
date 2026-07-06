@@ -2,6 +2,16 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.11.0] - 2026-07-05
+
+### Changed
+
+- **Capítulo 10:** Ajuste do gancho final para redirecionar o próximo passo (Capítulo 11) ao tema "Uso consciente de IAs na redação de currículos", em vez de organização de repositório.
+
+### Impact
+
+- Realinha o fluxo do projeto para incluir um capítulo dedicado ao uso estratégico de IAs (como ChatGPT) na construção de currículos, com ênfase em revisão humana e autenticidade.
+
 ## [1.10.0] - 2026-07-05
 
 ### Added
