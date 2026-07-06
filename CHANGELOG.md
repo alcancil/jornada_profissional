@@ -2,6 +2,29 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.13.0] - 2026-07-05
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 12):** Adição do guia "Criando Prompts Personalizados para Currículos" na pasta `01 - curriculo/01 - Teoria/12 - prompts-personalizados/`.
+  - Ensina a estruturar prompts eficazes com contexto, objetivo, restrições, exemplos e tom.
+  - Apresenta exemplos de prompts ruins e por que falham.
+  - Demonstra como adaptar prompts para diferentes papéis e audiências (RH, recrutador técnico, gestor, analista sênior, etc.).
+  - Oferece técnicas para adaptar o texto gerado ao seu próprio estilo de escrita.
+  - Lista o que manter, evitar e melhorar nos prompts.
+  - Inclui um sistema de pontuação (0 a 10) para avaliar prompts por papel, com tabela prática.
+  - Fornece um exercício para o leitor criar e avaliar seus próprios prompts.
+  - Ajusta o gancho final para direcionar ao Capítulo 13 (inglês técnico e mercado global).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Capacita o leitor a dominar a arte de criar prompts personalizados, garantindo respostas mais relevantes e autênticas.
+- Prepara o terreno para o próximo capítulo, sobre inglês técnico e adaptação internacional.
+
 ## [1.12.0] - 2026-07-05
 
 ### Added
