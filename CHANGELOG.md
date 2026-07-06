@@ -2,6 +2,27 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.12.0] - 2026-07-05
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 11):** Adição do guia "Uso Consciente de IAs na Redação de Currículos" na pasta `01 - curriculo/01 - Teoria/11 - uso-consciente-ia/`.
+  - Explica os benefícios e riscos do uso de IA na redação de currículos.
+  - Ensina a criar prompts eficazes para gerar frases STAR personalizadas.
+  - Apresenta um fluxo de trabalho: esboço → prompt → geração → revisão → adaptação.
+  - Fornece exemplos práticos de prompts bons e ruins, com análise do resultado.
+  - Lista as armadilhas comuns e um checklist de validação pós‑IA.
+  - Ajusta o gancho final para direcionar ao Capítulo 12 (prompts personalizados e estilo).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Capacita o leitor a utilizar IA como assistente estratégico, não como substituto.
+- Prepara o terreno para o próximo capítulo sobre prompts personalizados e adaptação ao estilo de escrita.
+
 ## [1.11.0] - 2026-07-05
 
 ### Changed
