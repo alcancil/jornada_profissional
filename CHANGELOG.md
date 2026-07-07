@@ -2,7 +2,37 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.15.0] - 2026-07-07
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 14):** Adição do guia "Como Lidar com Lacunas no Currículo (Gaps)" na pasta `14 - gaps`.
+  - Explica os diferentes tipos de lacunas (estudos, cuidados familiares, saúde, transição, freelance).
+  - Apresenta estratégias para abordar cada tipo de gap no currículo e na entrevista.
+  - Oferece exemplos práticos de frases para currículo e respostas para entrevistas.
+  - Inclui exercício para transformar o próprio gap em uma narrativa positiva.
+  - Ajusta o gancho final para redirecionar o próximo passo (Capítulo 15) ao tema "Transição de carreira (de TI geral para redes/automação)".
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Capacita o leitor a lidar com períodos sem emprego formal de forma honesta, estratégica e profissional.
+- Prepara o terreno para o Capítulo 15, que abordará como narrar transições de carreira.
+
 ## [1.14.0] - 2026-07-07
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 13):** Adição do guia "Inglês Técnico para TI e Adaptação para o Mercado Global" na pasta `01 - curriculo/01 - Teoria/13 - ingles-tecnico/`.
+  - Apresenta vocabulário essencial de redes, infraestrutura, automação e segurança em inglês.
+  - Ensina a escrever realizações STAR em inglês, com exemplos práticos.
+  - Compara as diferenças entre currículos brasileiros e internacionais (EUA, Reino Unido, Europa).
+  - Orienta sobre adaptação para diferentes mercados e como usar IA como assistente.
+  - Inclui checklist de validação para currículos em inglês.
+  - Ajusta o gancho final para redirecionar o próximo passo (Capítulo 14) ao tema "Como lidar com lacunas no currículo (gaps)".
 
 ### Changed
 
@@ -10,7 +40,7 @@ Todos os marcos notáveis deste projeto serão documentados neste arquivo. O for
 
 ### Impact
 
-- Realinha o fluxo do projeto para incluir um capítulo dedicado à abordagem estratégica de períodos sem emprego e transições de carreira, antes de avançar para a automação.
+- Prepara o terreno para o Capítulo 14, que abordará a gestão de lacunas e transições de carreira antes de avançar para a automação.
 
 ## [1.13.0] - 2026-07-05
 
