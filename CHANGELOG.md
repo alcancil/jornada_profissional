@@ -2,6 +2,16 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.14.0] - 2026-07-07
+
+### Changed
+
+- **Capítulo 13:** Ajuste do gancho final para redirecionar o próximo passo (Capítulo 14) ao tema "Como lidar com lacunas no currículo (gaps)", em vez de automação com Python.
+
+### Impact
+
+- Realinha o fluxo do projeto para incluir um capítulo dedicado à abordagem estratégica de períodos sem emprego e transições de carreira, antes de avançar para a automação.
+
 ## [1.13.0] - 2026-07-05
 
 ### Added
