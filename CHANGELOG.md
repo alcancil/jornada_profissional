@@ -2,6 +2,26 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.16.0] - 2026-07-07
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 15):** Adição do guia "Como Narrar uma Transição de Carreira de Forma Convincente" na pasta `15 - transicao-carreira`.
+  - Apresenta o método dos 3 Pilares (ponto de partida, virada e chegada) para estruturar a narrativa.
+  - Ensina a escrever sobre transição no currículo (resumo, experiências e projetos).
+  - Oferece estratégias para responder a perguntas sobre transição em entrevistas.
+  - Inclui exercício prático para construir sua própria narrativa.
+  - Ajusta o gancho final para direcionar ao Capítulo 16 (carta de apresentação).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Capacita o leitor a comunicar mudanças de carreira de forma estratégica, transformando a transição em um ponto forte.
+- Prepara o terreno para o próximo capítulo sobre cover letters.
+
 ## [1.15.0] - 2026-07-07
 
 ### Added
