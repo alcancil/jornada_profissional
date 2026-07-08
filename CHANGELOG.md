@@ -2,6 +2,27 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.17.0] - 2026-07-07
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 16):** Adição do guia "Como Escrever uma Carta de Apresentação (Cover Letter) Eficaz" na pasta `16 - cover-letter`.
+  - Explica a importância da carta de apresentação como complemento ao currículo.
+  - Apresenta a estrutura básica (cabeçalho, saudação, corpo, fechamento).
+  - Fornece exemplos práticos em português e inglês.
+  - Ensina a adaptar a carta para diferentes perfis de vaga e culturas.
+  - Inclui um checklist de validação e comparação com o currículo.
+  - Ajusta o gancho final para direcionar ao Capítulo 17 (visão geral da automação).
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Capacita o leitor a escrever cartas de apresentação personalizadas e profissionais, tanto para o mercado nacional quanto internacional.
+- Prepara o terreno para o último capítulo teórico, que fará a ponte para a automação.
+
 ## [1.16.0] - 2026-07-07
 
 ### Added
