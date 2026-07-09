@@ -2,6 +2,34 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.18.0] - 2026-07-09
+
+### Added
+
+- **Módulo de Currículo (Teoria - Capítulo 17):** Adição do guia "Fechamento da Jornada Teórica e Caminho para a Automação" na pasta `01 - curriculo/01 - Teoria/17 - fechamento/`.
+  - Realiza uma síntese de todos os capítulos anteriores.
+  - Apresenta a transição da teoria para a prática.
+  - Mapeia como os conceitos aprendidos serão aplicados na automação.
+
+- **Estrutura do Projeto:** Definição dos 3 pilares do framework:
+  - `01 - curriculo/` → Teoria e boas práticas para construção de currículos.
+  - `02 - valor de mercado/` → Estudos sobre métricas, indicadores (ROI, KPI, etc.) e linguagem de mercado.
+  - `03 - automacao/` → Sistema de automação de currículos com Python, integração com Ollama e dashboard de análise.
+
+- **Módulo de Automação:** Criação da estrutura inicial da pasta `03 - automacao/` com:
+  - Subpastas organizadas para scripts, modelos, dados e dashboard.
+  - README.md específico para guiar a instalação e execução da ferramenta.
+  - Preparação para futura implementação do gerador de currículos e sistema de ranqueamento.
+
+### Changed
+
+- **Estrutura do repositório:** O projeto agora está organizado de forma modular, permitindo crescimento independente de cada área.
+
+### Impact
+
+- Consolida a parte teórica do projeto e inaugura a fase prática.
+- Cria uma base sólida para o desenvolvimento da automação, com separação clara entre conhecimento, métricas e implementação.
+
 ## [1.17.0] - 2026-07-07
 
 ### Added
