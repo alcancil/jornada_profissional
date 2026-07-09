@@ -2,6 +2,16 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.19.2] - 2026-07-09
+
+### Fixed
+
+- **Documentação do Módulo Base:** Nova correção no link do arquivo `docs/01 - base/README.md` para apontar corretamente para `LOGICA_PROGRAMACAO.md`. O ajuste anterior ainda não estava funcional.
+
+### Impact
+
+- Garante que a referência ao arquivo de lógica de programação esteja correta e acessível.
+
 ## [1.19.1] - 2026-07-09
 
 ### Fixed
