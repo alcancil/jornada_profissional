@@ -66,6 +66,11 @@ graph TD
 ├── dados/
 │   └── meu_curriculo_mestre.json  # Seus dados pessoais (NÃO COMMITAR!)
 ├── docs/                      # Documentação extra (como instalar Ollama)
+|   └── 01 - base 
+|       |    README.md         # Documentação sobre cmo carregar o arquivo de competências
+|       |
+|       ├── Arquivos
+|       └── Imagens
 ├── modelos/                   # Modelos de currículo (Markdown)
 │   ├── mod_analista_redes.md
 │   ├── mod_analista_ti.md

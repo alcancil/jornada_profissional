@@ -1,0 +1,21 @@
+{
+  "perfis": [
+    "NOC",
+    "SOC",
+    "ISP",
+    "Enterprise",
+    "Cloud",
+    "Automação",
+    "Infra"
+  ],
+  "niveis": [
+    "Básico",
+    "Intermediário",
+    "Avançado"
+  ],
+  "caminhos": {
+    "modelos": "../modelos/",
+    "saidas": "../saidas/",
+    "dados": "../dados/"
+  }
+}

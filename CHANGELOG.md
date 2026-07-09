@@ -2,6 +2,30 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.19.0] - 2026-07-09
+
+### Added
+
+- **Módulo de Automação (Base e Validação):** Criação da estrutura inicial do sistema de automação na pasta `03 - sistema automacao/` com os seguintes arquivos:
+
+  - `config/competencias.json`: Inventário de competências (hard e soft) com campos de identificação, domínio, nível e perfis de vaga.
+  - `config/config.json`: Configurações gerais (perfis, níveis, caminhos) para o sistema.
+  - `src/carregar_competencias.py`: Script em Python para carregar e validar os arquivos JSON e realizar a validação cruzada entre eles.
+
+- **Documentação do Módulo de Automação:** Criação da documentação do primeiro módulo na pasta `docs/01 - base/`:
+
+  - `README.md`: Visão geral, estrutura de pastas, arquivos criados, como executar e lógica resumida do script.
+  - `LOGICA_PROGRAMACAO.md`: Explicação linha a linha da lógica de programação, justificativas para cada bloco e boas práticas adotadas.
+
+### Changed
+
+- N/A
+
+### Impact
+
+- Estabelece a base técnica e documental do sistema de automação, permitindo que os próximos módulos (extração, match, ranqueamento, geração) sejam construídos sobre uma fundação validada e bem documentada.
+- A documentação criada garante que o sistema seja compreensível e reproduzível, tanto para o autor quanto para futuros usuários ou colaboradores.
+
 ## [1.18.0] - 2026-07-09
 
 ### Added

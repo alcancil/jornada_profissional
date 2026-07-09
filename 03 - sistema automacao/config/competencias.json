@@ -1,0 +1,187 @@
+{
+  "competencias": [
+    {
+      "id": "vlan",
+      "nome": "VLAN",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Avançado",
+      "perfis": ["NOC", "Enterprise", "Infra"]
+    },
+    {
+      "id": "stp",
+      "nome": "STP/RSTP/MSTP",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Avançado",
+      "perfis": ["NOC", "Enterprise", "Infra"]
+    },
+    {
+      "id": "etherchannel",
+      "nome": "EtherChannel",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["NOC", "Enterprise", "Infra"]
+    },
+    {
+      "id": "ospf",
+      "nome": "OSPF",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["NOC", "ISP", "Enterprise"]
+    },
+    {
+      "id": "bgp",
+      "nome": "BGP",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["ISP", "Enterprise", "Cloud"]
+    },
+    {
+      "id": "mpls",
+      "nome": "MPLS",
+      "dominio": "Redes",
+      "tipo": "hard",
+      "nivel": "Básico",
+      "perfis": ["ISP", "Enterprise"]
+    },
+    {
+      "id": "firewall",
+      "nome": "Firewalls (Palo Alto / Fortinet)",
+      "dominio": "Segurança",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["SOC", "Enterprise"]
+    },
+    {
+      "id": "vpn",
+      "nome": "VPN (IPsec, SSL)",
+      "dominio": "Segurança",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["SOC", "Enterprise", "Cloud"]
+    },
+    {
+      "id": "linux",
+      "nome": "Linux (Debian/Ubuntu)",
+      "dominio": "Sistemas",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["Infra", "Cloud", "NOC", "Automação"]
+    },
+    {
+      "id": "windows_server",
+      "nome": "Windows Server (AD, DNS, DHCP)",
+      "dominio": "Sistemas",
+      "tipo": "hard",
+      "nivel": "Avançado",
+      "perfis": ["Infra", "Enterprise"]
+    },
+    {
+      "id": "python_netmiko",
+      "nome": "Python (Netmiko)",
+      "dominio": "Automação",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["Automação", "DevNet", "Cloud"]
+    },
+    {
+      "id": "ansible",
+      "nome": "Ansible",
+      "dominio": "Automação",
+      "tipo": "hard",
+      "nivel": "Básico",
+      "perfis": ["Automação", "DevNet", "Cloud"]
+    },
+    {
+      "id": "git",
+      "nome": "Git / GitHub",
+      "dominio": "Automação",
+      "tipo": "hard",
+      "nivel": "Intermediário",
+      "perfis": ["Automação", "DevNet", "Cloud"]
+    },
+    {
+      "id": "docker",
+      "nome": "Docker",
+      "dominio": "Automação",
+      "tipo": "hard",
+      "nivel": "Básico",
+      "perfis": ["Automação", "DevNet", "Cloud"]
+    },
+    {
+      "id": "grafana",
+      "nome": "Grafana",
+      "dominio": "Monitoramento",
+      "tipo": "hard",
+      "nivel": "Básico",
+      "perfis": ["NOC", "Infra"]
+    },
+    {
+      "id": "comunicacao",
+      "nome": "Comunicação Técnica",
+      "dominio": "Comportamental",
+      "tipo": "soft",
+      "nivel": "Avançado",
+      "perfis": ["NOC", "Enterprise", "Automação", "SOC"],
+      "evidencias": [
+        "Apresentação de arquitetura de rede para a diretoria",
+        "Documentação técnica de procedimentos (runbooks)",
+        "Treinamento de equipes de suporte"
+      ]
+    },
+    {
+      "id": "organizacao",
+      "nome": "Organização e Gestão de Documentação",
+      "dominio": "Comportamental",
+      "tipo": "soft",
+      "nivel": "Intermediário",
+      "perfis": ["Infra", "NOC", "Automação"],
+      "evidencias": [
+        "Padronização de nomenclatura de equipamentos",
+        "Criação de inventário de ativos de rede",
+        "Uso de Git para controle de versão de scripts"
+      ]
+    },
+    {
+      "id": "lideranca",
+      "nome": "Liderança e Coordenação",
+      "dominio": "Comportamental",
+      "tipo": "soft",
+      "nivel": "Intermediário",
+      "perfis": ["Enterprise", "NOC"],
+      "evidencias": [
+        "Coordenação de projetos de migração de rede",
+        "Mentoria de estagiários e técnicos juniores"
+      ]
+    },
+    {
+      "id": "resolucao_problemas",
+      "nome": "Resolução de Problemas Complexos",
+      "dominio": "Comportamental",
+      "tipo": "soft",
+      "nivel": "Avançado",
+      "perfis": ["NOC", "SOC", "ISP", "Enterprise"],
+      "evidencias": [
+        "Diagnóstico de loops de STP em ambiente com 30 switches",
+        "Troubleshooting de incidentes críticos de roteamento"
+      ]
+    },
+    {
+      "id": "aprendizado_continuo",
+      "nome": "Aprendizado Contínuo",
+      "dominio": "Comportamental",
+      "tipo": "soft",
+      "nivel": "Intermediário",
+      "perfis": ["Automação", "DevNet", "Cloud"],
+      "evidencias": [
+        "Obtenção do CCNA e estudos para CCNP",
+        "Desenvolvimento de laboratórios próprios no EVE-NG",
+        "Documentação pública de projetos no GitHub"
+      ]
+    }
+  ]
+}
