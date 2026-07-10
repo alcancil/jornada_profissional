@@ -152,7 +152,7 @@ O script utiliza os.path.abspath(__file__) para descobrir sua própria localiza�
 
 Essa linha garante que o script só execute a função main() quando for executado diretamente, e não se for importado por outro módulo.
 
->📘 **Documentação complementar:** Para uma explicação linha a linha da lógica de programação, incluindo justificativas para cada bloco de código e boas práticas adotadas, consulte o arquivo [LOGICA_PROGRAMACAO.md](/logica_programacao.md) disponível nesta mesma pasta.
+>📘 **Documentação complementar:** Para uma explicação linha a linha da lógica de programação, incluindo justificativas para cada bloco de código e boas práticas adotadas, consulte o arquivo [logica_programacao.md](/03%20-%20sistema%20automacao/docs/01%20-%20base/logica_programacao.md) disponível nesta mesma pasta.
 
 ### ✅ Status atual do módulo
 

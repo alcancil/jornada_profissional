@@ -2,6 +2,17 @@
 
 Todos os marcos notáveis deste projeto serão documentados neste arquivo. O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [1.19.4] - 2026-07-09
+
+### Fixed
+
+- **Documentação do Módulo Base:** Corrige o link para `LOGICA_PROGRAMACAO.md` utilizando um caminho relativo explícito (`./`) para garantir funcionamento no GitHub.
+- **Verificação de nome:** Garante que o nome do arquivo referenciado corresponde exatamente ao criado na pasta.
+
+### Impact
+
+- Restabelece o funcionamento correto dos links internos da documentação.
+
 ## [1.19.2] - 2026-07-09
 
 ### Fixed
